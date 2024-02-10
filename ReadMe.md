@@ -5,7 +5,7 @@
 ## I'm a Masters student at the University of Waterloo.
 
 - 👨‍💻 I’m currently pursuing a master's degree in M.eng. Electric and Computer Engineering at the University of Waterloo.
-- 📚 My interests involve cyber security, software development, and I am currently exploring Neural Network related concepts!
+- 📚 My interests involve cyber security, software development, and I am currently exploring Network concepts in-depth!
 - :dizzy: A fun fact about me is I love digital art and used to create some back in 2020. I am currently saving up to buy an iPad and start again! Check out my page on Instagram: @digitikkal
 
 --- 
