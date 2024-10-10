@@ -1,9 +1,7 @@
 
 ### Hi there 👋 I'm Hritika!
-&nbsp; 
-&nbsp; 
-&nbsp; 
 <img align="right" alt="GIF" height="160px" src="https://media3.giphy.com/media/ub8skCISGGNxCeZTNb/giphy.gif" />
+&nbsp; 
 
 ## I'm a Masters student at the University of Waterloo.
 
