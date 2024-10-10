@@ -1,12 +1,12 @@
 
 ### Hi there 👋 I'm Hritika!
 <img align="right" alt="GIF" height="160px" src="https://media3.giphy.com/media/ub8skCISGGNxCeZTNb/giphy.gif" />
-&nbsp; 
 
 ## I'm a Masters student at the University of Waterloo.
 
 - 👨‍💻 I’m currently pursuing a master's degree in M.eng. Electric and Computer Engineering at the University of Waterloo.
-- 📚 My interests involve cloud and network security, and software development. I am currently exploring system design and static coding analysis in-depth!
+- 📚 My interests involve cloud and network security, and software development.
+- I am currently exploring system design and static coding analysis in-depth!
 - :dizzy: A fun fact about me is I love digital art and used to create some back in 2020. I am currently saving up to buy an iPad and start again! Check out my page on Instagram: @digitikkal
 
 --- 
