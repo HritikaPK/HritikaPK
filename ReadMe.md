@@ -19,15 +19,16 @@
 [![C#](https://img.shields.io/badge/C%23-FFA07A?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ##### Some of the technologies or platforms I have worked with:
-[![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-4682B4?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/what-is-cloud-computing/)
-[![DEVO SIEM](https://img.shields.io/badge/DEVO_SIEM-778899?style=for-the-badge&logo=devo&logoColor=white)](https://www.devo.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-8A2BE2?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-00FA9A?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
-[![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-00BFFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Azure Active Directory](https://img.shields.io/badge/Azure_Active_Directory-4682B4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Microsoft Office Tools](https://img.shields.io/badge/Microsoft_Office_Tools-778899?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
-[![JIRA/Confluence](https://img.shields.io/badge/JIRA_Confluence-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/software/confluence/jira-integration)
+[![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FADADD?style=for-the-badge&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/what-is-cloud-computing/)
+[![DEVO SIEM](https://img.shields.io/badge/DEVO_SIEM-FFDFD3?style=for-the-badge&logo=devo&logoColor=black)](https://www.devo.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-FFDFE5?style=for-the-badge&logo=kali-linux&logoColor=black)](https://www.kali.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-D9EAD3?style=for-the-badge&logo=burp-suite&logoColor=black)](https://portswigger.net/burp)
+[![Postman](https://img.shields.io/badge/Postman-FEEBF6?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-D5F4E6?style=for-the-badge&logo=cisco&logoColor=black)](https://www.netacad.com/courses/packet-tracer)
+[![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-FDE9F0?style=for-the-badge&logo=microsoft-azure&logoColor=black)](https://azure.microsoft.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-FDF6E3?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com/)
+[![Azure Active Directory](https://img.shields.io/badge/Azure_Active_Directory-FFE8D6?style=for-the-badge&logo=microsoft-azure&logoColor=black)](https://azure.microsoft.com/)
+[![Microsoft Office Tools](https://img.shields.io/badge/Microsoft_Office_Tools-EDEDED?style=for-the-badge&logo=microsoft&logoColor=black)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+[![JIRA/Confluence](https://img.shields.io/badge/JIRA_Confluence-E6EAF7?style=for-the-badge&logo=atlassian&logoColor=black)](https://www.atlassian.com/software/confluence/jira-integration)
+
 ---
