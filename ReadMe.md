@@ -12,11 +12,12 @@
 --- 
 
 ##### Languages I have worked with till now:
-[![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++/C](https://img.shields.io/badge/C++/C-FFB6C1?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Java](https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Javascript](https://img.shields.io/badge/Javascript-90EE90?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/C%23-FFA07A?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-FADADD?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![C++/C](https://img.shields.io/badge/C++/C-FFDFD3?style=for-the-badge&logo=c%2B%2B&logoColor=black)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Java](https://img.shields.io/badge/Java-FFDFE5?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com/)
+[![Javascript](https://img.shields.io/badge/Javascript-D9EAD3?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/C%23-FEEBF6?style=for-the-badge&logo=c-sharp&logoColor=black)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
 
 ##### Some of the technologies or platforms I have worked with:
 [![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FADADD?style=for-the-badge&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/what-is-cloud-computing/)
