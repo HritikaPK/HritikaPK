@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently pursuing a master's degree in M.eng. Electric and Computer Engineering at the University of Waterloo.
 - 📚 My interests involve the cloud, network security, and software development.
-- I am currently exploring cloud services, static coding as well as data and Knowledge modelling and analysis
+- I am currently exploring cloud services, static coding, as well as data and knowledge modelling and analysis
 - :dizzy: A fun fact about me is I love digital art and used to create some back in 2020. I am currently saving up to buy an iPad and start again! Check out my page on Instagram: @digitikkal
 
 --- 
