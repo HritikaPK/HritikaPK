@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Hritika 👋
+Learning by building: security, LLM tooling & cloud.
 
-<!--
-**HritikaPK/HritikaPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology Security Analyst based in Toronto. MEng in Electrical & Computer Engineering (University of Waterloo), BTech in Computer Science & Engineering (MIT-WPU).
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+| --- | --- |
+| **Cloud** | AWS, GCP, Azure · serverless · Docker, Kubernetes · Prometheus, Grafana |
+| **Security** | Cloud security (IAM, WAF, network segmentation) · threat modeling · threat intelligence · cryptography (TLS/SSL, homomorphic encryption) |
+| **AI & LLM tooling** | LLM-powered tools · agent pipelines · Claude Code, Copilot, Gemini |
+| **Languages** | Python, TypeScript, SQL, Bash, JavaScript, C++ |
+| **Certified** | CompTIA Security+, AWS Certified Cloud Practitioner |
+
+**Currently exploring:** LLM tooling and agentic AI through hands-on builds
+
+**Connect:** [LinkedIn](https://linkedin.com/in/hritika-kalghatgi)
